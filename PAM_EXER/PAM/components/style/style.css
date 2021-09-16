@@ -1,0 +1,7 @@
+*{margin:0; box-sizing: border-box;}
+
+.Tabela{float:left; width: 80%; margin: 30px 10%; text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 15px;}
+    .Tabela thead tr:first-child{background: rgb(156, 1, 1); color: rgb(255, 255, 255); font-weight: bold;}
+    .Tabela tbody tr:nth-child(1n){background: rgb(255, 0, 0);}
+
+    
